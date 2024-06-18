@@ -133,7 +133,7 @@ const App = () => {
           ))}
         </ul>
         <nav>
-          <p>Made by Luis v.2.0</p>
+          <p>Made by Luis v.2.0 probando la herramienta git-flow ahora probemos la funcionalidad de subir</p>
         </nav>
       </section>
       <section className="main">
