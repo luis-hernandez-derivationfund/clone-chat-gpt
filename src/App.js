@@ -133,7 +133,7 @@ const App = () => {
           ))}
         </ul>
         <nav>
-          <p>Made by Luis v.2.0 esto es development</p>
+          <p>Made by Luis v.2.0 esto ya no es development es una rama alternativa</p>
         </nav>
       </section>
       <section className="main">
